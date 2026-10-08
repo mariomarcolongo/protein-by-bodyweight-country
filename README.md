@@ -1,12 +1,12 @@
 # Protein by Bodyweight by Country
 
-[![Validate data pipeline](https://github.com/jnton/protein-by-bodyweight-country/actions/workflows/ci.yml/badge.svg)](https://github.com/jnton/protein-by-bodyweight-country/actions/workflows/ci.yml)
+[![Validate data pipeline](https://github.com/mariomarcolongo/protein-by-bodyweight-country/actions/workflows/ci.yml/badge.svg)](https://github.com/mariomarcolongo/protein-by-bodyweight-country/actions/workflows/ci.yml)
 [![License: AGPL-3.0-or-later](https://img.shields.io/badge/code-AGPL--3.0-blue)](LICENSE)
 [![Content: CC BY-SA 4.0](https://img.shields.io/badge/content-CC%20BY--SA%204.0-c95b42)](LICENSE_POLICY.md)
 
 An interactive, reproducible explorer of national protein supply relative to estimated bodyweight.
 
-**Live explorer:** https://jnton.github.io/protein-by-bodyweight-country/
+**Live explorer:** https://mariomarcolongo.github.io/protein-by-bodyweight-country/
 
 ## Why this exists
 
