@@ -6,7 +6,7 @@ The interactive explorer, processing code, issue tracker, methodology, and versi
 
 Recommended public URL:
 
-`https://jnton.github.io/protein-by-bodyweight-country/`
+`https://mariomarcolongo.github.io/protein-by-bodyweight-country/`
 
 ## Archival release: Zenodo
 

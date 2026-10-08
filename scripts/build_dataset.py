@@ -26,7 +26,7 @@ REPRESENTATIVE_ADULT_AGE = 40
 VERSION = "0.3.0-preview"
 USER_AGENT = (
     f"protein-by-bodyweight-country/{VERSION} "
-    "(+https://github.com/jnton/protein-by-bodyweight-country)"
+    "(+https://github.com/mariomarcolongo/protein-by-bodyweight-country)"
 )
 
 

@@ -5,8 +5,8 @@ type: software
 authors:
   - family-names: Marcolongo
     given-names: Mario
-repository-code: "https://github.com/jnton/protein-by-bodyweight-country"
-url: "https://jnton.github.io/protein-by-bodyweight-country/"
+repository-code: "https://github.com/mariomarcolongo/protein-by-bodyweight-country"
+url: "https://mariomarcolongo.github.io/protein-by-bodyweight-country/"
 license: AGPL-3.0-or-later
 version: 0.3.0-preview
 date-released: 2026-07-22

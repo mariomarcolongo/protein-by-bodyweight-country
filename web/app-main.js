@@ -297,7 +297,7 @@ function installPersonalizationUi() {
         </label>
         <div id="personal-target-output" class="personal-target-output"></div>
         <p class="personal-target-caveat">Educational calculator only. It does not account for kidney disease, pregnancy, adolescence, acute illness, medications, or other clinical factors.</p>
-        <a href="https://github.com/jnton/protein-by-bodyweight-country/blob/main/docs/PERSONAL_TARGETS.md" target="_blank" rel="noreferrer">Methods and sources ↗</a>
+        <a href="https://github.com/mariomarcolongo/protein-by-bodyweight-country/blob/main/docs/PERSONAL_TARGETS.md" target="_blank" rel="noreferrer">Methods and sources ↗</a>
       </div>`;
     benchmarkRow.insertAdjacentElement("afterend", builder);
   }
