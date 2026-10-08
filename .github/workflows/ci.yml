@@ -69,7 +69,7 @@ jobs:
         if: github.event_name == 'pull_request'
         run: |
           set -euo pipefail
-          base="https://jnton.github.io/protein-by-bodyweight-country"
+          base="https://mariomarcolongo.github.io/protein-by-bodyweight-country"
           curl --fail --silent --show-error --location \
             --retry 12 --retry-delay 5 --retry-all-errors \
             "$base/" --output /tmp/live-index.html
